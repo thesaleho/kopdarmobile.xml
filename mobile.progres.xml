@@ -1,5 +1,5 @@
 name: Bug Report
-description: Submit a bug report
+description: Intermezo sosial modulasi
 labels: [bug]
 body:
   - type: textarea
