@@ -1,13 +1,13 @@
-name: Bug Report
-description: Intermezo sosial modulasi
-labels: [bug]
+name: Bug Information
+description: Republic of intermezo
+labels: [bug] * pastikan anda login dg apk intermezo *
 body:
   - type: textarea
     attributes:
       label: Description
       description: A clear and concise description of what the bug is, and why you consider it to be a bug.
     validations:
-      required: true
+      required: true [ bagi anda yg login dg clien selain intermezo harap memakai nama clien yg tidak melebar jauh dari teamtalk agar supaya ddos kami tidak aktif dg otomatis
   - type: checkboxes
     attributes:
       label: Application
@@ -17,7 +17,7 @@ body:
         - label: intermezo server
         - label: vps tiga
         - label: clien windows
-        - label: bot mysic
+        - label: bot music
     validations:
       required: true
   - type: checkboxes
@@ -44,8 +44,10 @@ body:
     attributes:
       label: Steps to reproduce problem
       placeholder: |
-        A description with steps to reproduce the issue.
-        1. Step 1
-        2. Step 2
+        A channel yg sudah terdaftar .
+        1. Step 1 [ warung pojok ]
+        2. Step 2 [ butterfly ]   
+        3. Step 3 [ pelangi room ]
+
     validations:
       required: true
