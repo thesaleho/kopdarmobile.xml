@@ -48,6 +48,11 @@ body:
         1. Step 1 [ warung pojok ]
         2. Step 2 [ butterfly ]   
         3. Step 3 [ pelangi room ]
+        4. Step 4 [ bakpao family ]
+        5. Step 5 [ pelangi room ]
+        6. Step 6 [ edel weis ]
+        7. Step 7 [ portal gorontalo ]
+        8. Step 8 [ warung pojok ]
 
     validations:
       required: true
