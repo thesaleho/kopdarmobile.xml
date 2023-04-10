@@ -7,7 +7,9 @@ body:
 💥Program channel : Ceremoni channel 021 pelangi room . Acara akan diadakan nanti malam pukul 8.30 di intermezo . kami segenap crew mengucapkan selamat dan semoga dilancarkan dg sukses.👈
 
 
-  - type: textarea
+ 
+
+ - type: textarea
     attributes:
       label: Description
       description: A clear and concise description of what the bug is, and why you consider it to be a bug.
